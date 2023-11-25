@@ -1,5 +1,5 @@
 {
-  "name": "lever-ui-rollup-test",
+  "name": "lever-ui-components-react",
   "version": "0.0.3",
   "description": "A collection of reusable React components, written in TypeScript",
   "main": "dist/cjs/index.js",
